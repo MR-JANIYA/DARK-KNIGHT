@@ -42,7 +42,7 @@ global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/MR-JANIYA' //Github Account!
 global.footer = '🤍©_𝙲𝚁𝙴𝙰𝚃𝙾𝚁 𝙱𝚈 𝙼𝚁 𝙹𝙰𝙽𝙸𝚈𝙰 𝙰𝙽𝙳 𝚆𝙾𝚁𝙺𝙴𝚁 𝙱𝚈 𝙳𝙰𝚁𝙺 𝙺𝙽𝙸𝙶𝙷𝚃 𝙼𝙳 𝙱𝙾𝚃🕊️' // DO NOT CHANGE!
 
 global.mess = { // Error Mesages
