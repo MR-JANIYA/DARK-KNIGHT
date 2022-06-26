@@ -1,8 +1,8 @@
 {
-  "name": "RED DRAGON BOT",
-  "description": "☬𝗥𝗘𝗗༒𝗗𝗥𝗔𝗚𝗢𝗡-𝗕𝗢𝗧࿐ | By: RED-DRAGONᵀᴹ | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
-  "repository": "https://github.com/prabhasha2006/Red-Dragon",
-  "logo": "https://i.ibb.co/CwffZ61/20220605-104552.jpg",
+  "name": "𝙳𝙰𝚁𝙺 𝙺𝙽𝙸𝙶𝙷𝚃 𝙼𝙳",
+  "description": "☬𝙳𝙰𝚁𝙺༒𝙺𝙽𝙸𝙶𝙷𝚃-𝙱𝙾𝚃࿐ | By: 𝙳𝙰𝚁𝙺-𝙺𝙽𝙸𝙶𝙷𝚃 | 𝐌𝐑: ☬𝔻𝔸ℝ𝕂༒ℕ𝕀𝕋ℝ𝕆࿐",
+  "repository": "https://github.com/MR-JANIYA/DARK-KNIGHT",
+  "logo": "https://i.ibb.co/WckJXzd/2ac6cce7-7895-4fa0-a336-ab8e43ea1989.jpg.",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
